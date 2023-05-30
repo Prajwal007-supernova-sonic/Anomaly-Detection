@@ -1,0 +1,4 @@
+
+Download pretrained file (CNN_LSTM.h5) link given below:
+
+https://drive.google.com/file/d/1rj8i2Y-x3HMyjh2paGDoBf5urleg7zMO/view?usp=sharing
